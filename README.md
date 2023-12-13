@@ -1,2 +1,2 @@
 # euro2024
-Simulateur 
+Simulateur de compétition
