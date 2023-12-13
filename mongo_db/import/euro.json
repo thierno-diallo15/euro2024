@@ -1,0 +1,212 @@
+[
+ {
+  "Country name": "Italy",
+  "FIFA ranking": 9,
+  "Code": "it",
+  "Hat": 4
+ },
+ {
+  "Country name": "Germany",
+  "FIFA ranking": 16,
+  "Code": "de",
+  "Hat": 1
+ },
+ {
+  "Country name": "Portugal",
+  "FIFA ranking": 6,
+  "Code": "pt",
+  "Hat": 1
+ },
+ {
+  "Country name": "Spain",
+  "FIFA ranking": 8,
+  "Code": "es",
+  "Hat": 1
+ },
+ {
+  "Country name": "Belgium",
+  "FIFA ranking": 5,
+  "Code": "be",
+  "Hat": 1
+ },
+ {
+  "Country name": "England",
+  "FIFA ranking": 4,
+  "Code": "gb-eng",
+  "Hat": 1
+ },
+ {
+  "Country name": "Hungary",
+  "FIFA ranking": 30,
+  "Code": "hu",
+  "Hat": 2
+ },
+ {
+  "Country name": "Turkey",
+  "FIFA ranking": 38,
+  "Code": "tr",
+  "Hat": 2
+ },
+ {
+  "Country name": "Romania",
+  "FIFA ranking": 48,
+  "Code": "ro",
+  "Hat": 2
+ },
+ {
+  "Country name": "Denmark",
+  "FIFA ranking": 19,
+  "Code": "dk",
+  "Hat": 2
+ },
+ {
+  "Country name": "Albania",
+  "FIFA ranking": 59,
+  "Code": "al",
+  "Hat": 2
+ },
+ {
+  "Country name": "Austria",
+  "FIFA ranking": 25,
+  "Code": "at",
+  "Hat": 2
+ },
+ {
+  "Country name": "Netherlands",
+  "FIFA ranking": 7,
+  "Code": "nl",
+  "Hat": 3
+ },
+ {
+  "Country name": "Scotland",
+  "FIFA ranking": 34,
+  "Code": "gb-sct",
+  "Hat": 3
+ },
+ {
+  "Country name": "Croatia",
+  "FIFA ranking": 10,
+  "Code": "hr",
+  "Hat": 3
+ },
+ {
+  "Country name": "Slovenia",
+  "FIFA ranking": 54,
+  "Code": "si",
+  "Hat": 3
+ },
+ {
+  "Country name": "Slovakia",
+  "FIFA ranking": 50,
+  "Code": "sk",
+  "Hat": 3
+ },
+ {
+  "Country name": "Czech",
+  "FIFA ranking": 41,
+  "Code": "cz",
+  "Hat": 3
+ },
+ {
+  "Country name": "Serbia",
+  "FIFA ranking": 29,
+  "Code": "rs",
+  "Hat": 4
+ },
+ {
+  "Country name": "Switzerland",
+  "FIFA ranking": 14,
+  "Code": "ch",
+  "Hat": 4
+ },
+ {
+  "Country name": "Wales",
+  "FIFA ranking": 28,
+  "Code": "gb-wls",
+  "Hat": 4,
+  "Playoff": "A"
+ },
+ {
+  "Country name": "Finland",
+  "FIFA ranking": 62,
+  "Code": "fi",
+  "Hat": 4,
+  "Playoff": "A"
+ },
+ {
+  "Country name": "Poland",
+  "FIFA ranking": 31,
+  "Code": "pl",
+  "Hat": 4,
+  "Playoff": "A"
+ },
+ {
+  "Country name": "Estonia",
+  "FIFA ranking": 118,
+  "Code": "ee",
+  "Hat": 4,
+  "Playoff": "A"
+ },
+ {
+  "Country name": "Bosnia Herzegovina",
+  "FIFA ranking": 63,
+  "Code": "ba",
+  "Hat": 4,
+  "Playoff": "B"
+ },
+ {
+  "Country name": "Ukraine",
+  "FIFA ranking": 22,
+  "Code": "ua",
+  "Hat": 4,
+  "Playoff": "B"
+ },
+ {
+  "Country name": "Israël",
+  "FIFA ranking": 71,
+  "Code": "il",
+  "Hat": 4,
+  "Playoff": "B"
+ },
+ {
+  "Country name": "Island",
+  "FIFA ranking": 67,
+  "Code": "is",
+  "Hat": 4,
+  "Playoff": "B"
+ },
+ {
+  "Country name": "Georgia",
+  "FIFA ranking": 76,
+  "Code": "ge",
+  "Hat": 4,
+  "Playoff": "C"
+ },
+ {
+  "Country name": "Luxembourg",
+  "FIFA ranking": 87,
+  "Code": "lu",
+  "Hat": 4,
+  "Playoff": "C"
+ },
+ {
+  "Country name": "Greece",
+  "FIFA ranking": 51,
+  "Code": "gr",
+  "Hat": 4,
+  "Playoff": "C"
+ },
+ {
+  "Country name": "Kazakhstan",
+  "FIFA ranking": 98,
+  "Code": "kz",
+  "Hat": 4,
+  "Playoff": "C"
+ },
+ {
+  "Country name": "France",
+  "FIFA ranking": 2,
+  "Code": "fr",
+  "Hat": 1
+ }
+]

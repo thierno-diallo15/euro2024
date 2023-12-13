@@ -1,0 +1,46 @@
+version: "3.9"
+
+services:
+  mongo_db:
+    container_name: mongo_db
+    image: mongo
+    healthcheck:
+      test: echo 'db.runCommand("ping").ok' | mongosh localhost:27017/test --quiet
+      interval: 10s
+      timeout: 10s
+      retries: 5
+      start_period: 50s
+    ports:
+      - 27018:27017
+    command: mongod
+    env_file: ./mongo_db/.env
+    volumes:
+      - ./mongo_db/import:/tmp/import #si import de données, sinon commenter
+      - ./mongo_db/data:/data/db
+      - ./mongo_db/init-mongo.sh:/docker-entrypoint-initdb.d/init-mongo.sh #initialisation de la base de données + import ou création
+    networks:
+      - mdb
+  
+  app:
+    build: ./app/
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+    depends_on:
+     - mongo_db
+
+  mongo-express:
+    container_name: mongo_express
+    image: mongo-express
+    ports:
+      - 8081:8081
+    env_file: ./mongo_db/.env
+    depends_on:
+      mongo_db:
+        condition: service_healthy
+    networks:
+      - mdb
+
+networks:
+  mdb:
+    driver: bridge
