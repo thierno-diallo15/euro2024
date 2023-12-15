@@ -13,3 +13,10 @@ Dans chaque playoff il aura deux match à l'issue de ces deux matchs, les équip
 
 # Les équipes de la phase final
 Il aura 6 equipe de 4 qui se sompose des 24 équipes sélectionner .
+
+# Pour executer le projet
+- se placer sur le dossier principal du projet et taper la commande : docker-compose up -d
+- Attendre que tout soit lancé (il peut prendre un certain temps)
+- Se placer sur le dossier app  et lancer le projet en tapant la commande : 
+- npm install
+- node app.js
